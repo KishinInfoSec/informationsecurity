@@ -1,0 +1,13 @@
+# Root .gitignore. Note notes/.gitignore exists separately and its rules
+# (.env, *.pem, *.pcap*, .obsidian/) apply ONLY inside notes/.
+
+# Not allowed to be hosted
+cis-benchmarks/*
+BHIS/
+PayloadsAllTheThings/
+# Agent instruction files
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+AGENT.md
+.claude/
