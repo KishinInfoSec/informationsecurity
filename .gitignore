@@ -2,9 +2,10 @@
 # (.env, *.pem, *.pcap*, .obsidian/) apply ONLY inside notes/.
 
 # Not allowed to be hosted
-cis-benchmarks/*
+Resources/
 BHIS/
 PayloadsAllTheThings/
+cis-benchmarks/
 # Agent instruction files
 CLAUDE.md
 CLAUDE.local.md
