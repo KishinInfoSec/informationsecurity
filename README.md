@@ -1,2 +1,1 @@
-# informationsecurity
-# informationsecurity
+# Information Security Notes & Resources
