@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "11325ea205a9e96d",
+        "id": "c2b1b54acb9ebfe3",
         "type": "tabs",
         "children": [
           {
-            "id": "fba2e6a691fa8ac0",
+            "id": "a89ee538c4e27bd8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "notes/reconnaissance/bhis-intro-to-network-penetration-testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bhis-intro-to-network-penetration-testing"
             }
           }
         ]
@@ -181,6 +185,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "fba2e6a691fa8ac0",
-  "lastOpenFiles": []
+  "active": "a89ee538c4e27bd8",
+  "lastOpenFiles": [
+    "notes/reconnaissance/gods-eye-view.md"
+  ]
 }
